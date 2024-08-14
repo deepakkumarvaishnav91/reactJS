@@ -1,0 +1,33 @@
+{
+  "name": "reactjs",
+  "version": "1.0.0",
+  "description": "react learning ",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepakkumarvaishnav91/reactJS.git"
+  },
+  "keywords": [
+    "learning",
+    "reactjs"
+  ],
+  "author": "Deepak Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepakkumarvaishnav91/reactJS/issues"
+  },
+  "homepage": "https://github.com/deepakkumarvaishnav91/reactJS#readme",
+  "dependencies": {
+    "parcel": "^2.12.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
+  },
+  "browserslist":[
+    "last 2 versions"
+  ]
+}
