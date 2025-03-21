@@ -29,7 +29,7 @@
   "devDependencies": {
     "process": "^0.11.10"
   },
-  "browserslist":[
+  "browserslist": [
     "last 2 versions"
   ]
 }
