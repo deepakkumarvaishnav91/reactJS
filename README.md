@@ -21,3 +21,40 @@
  - Different dev and production bundles
  - 
 
+food ordering app
+
+/**
+ * Header
+ *  - Logo component
+ *  - Nav items
+ *  - cart
+ * Body
+ *  - Search
+ *  - RestaurantContainer
+ *    -- restaurantCard
+ *      -- img
+ *      -- name of restaurant , Star rating, cuisine, delivery time
+ *     
+ * Footer
+ *  - Copyright
+ *  - Links
+ *  - Address
+ *  - Contact
+ * 
+ ** /
+
+ /* . const RestaurantCard = ( {resName, cuisine} ) => {    } - you can write like this. this is call destructuring of objects
+*/
+
+Two types of export/import 
+  - default export - one file can have only one default export
+        - export default component_name;
+        - import component_name from "path";
+  - Named export/import
+        - export const component_name;
+        - import {component_name} from "path"
+
+# React Hooks
+ (normal JS utility functions)
+ - useState() - to create state variables in react
+ - useEffect() - 
